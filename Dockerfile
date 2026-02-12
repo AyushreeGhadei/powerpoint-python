@@ -9,4 +9,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["python", "myapp/app.py"]
+CMD ["python", "myapp/flaskapp.py"]
