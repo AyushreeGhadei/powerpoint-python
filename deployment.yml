@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: powerpoint-deployment
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: powerpoint
+  template:
+    metadata:
+      labels:
+        app: powerpoint
+    spec:
+      containers:
+      - name: powerpoint
+        image: ayushreeghadei/powerpoint-python:latest
+        ports:
+        - containerPort: 5000
