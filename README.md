@@ -268,9 +268,7 @@ Have a question, idea, or want to contribute? Join us in [Discussions](https://g
 ## Contributors ✨
 
 <img src="https://github.com/otahina.png" width="50" height="50" alt="description">
-<a href="https://github.com/otahina">Ota Hina</a>
-<img src="https://github.com/gaganmanku96.png" width="50" height="50" alt="description">
-<a href="https://github.com/gaganmanku96">Gagandeep Singh</a>
+<a href="https://github.com/otahina">Ayushree Ghadei</a>
 
 
 ## License 📄
